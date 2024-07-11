@@ -21,7 +21,7 @@
 ✅ Foi sincronizado uma pasta da minha maquina fisica para a maquina virtual.
 
 
-## **Abaixo se encontra algumas capturas de tela desse Laboratório:**
+## **Segue algumas capturas de tela desse Laboratório:**
 
 
 ![teste](https://github.com/paolacsouza/vagrant_lab/blob/main/acesso_nginx.jfif)
